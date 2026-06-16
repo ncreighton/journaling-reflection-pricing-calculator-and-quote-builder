@@ -1,2 +1,25 @@
-# journaling-reflection-pricing-calculator-and-quote-builder
-Dynamic pricing, tiered packages, discount logic, and branded quote PDFs. Close deals faster with instant accurate quotes.
+# Journaling & Reflection Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI5kD8v52k43lm9rKd0r0I)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI5kD8v52k43lm9rKd0r0I)
+
